@@ -1,0 +1,1568 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ajax\libs\jquery\3.6.3\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/party-js@latest/bundle/party.min.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\npm\party-js@latest\bundle\party.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.supercell.com/supercell.com/220912063309/supercell.com/files/og_clashofclans.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\supercell.com\220912063309\supercell.com\files\og_clashofclans.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn1.dotesports.com/wp-content/uploads/2020/04/02142718/GarenaWorld.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\wp-content\uploads\2020\04\02142718\GarenaWorld.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ajax\libs\OwlCarousel2\2.3.4\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ajax\libs\OwlCarousel2\2.3.4\assets\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ajax\libs\OwlCarousel2\2.3.4\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ajax\libs\OwlCarousel2\2.3.4\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ajax\libs\slick-carousel\1.8.1\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ajax\libs\slick-carousel\1.8.1\fonts\slick.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ajax\libs\slick-carousel\1.8.1\fonts\slick-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ajax\libs\slick-carousel\1.8.1\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ajax\libs\slick-carousel\1.8.1\fonts\slick.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ajax\libs\slick-carousel\1.8.1\fonts\slick.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ajax\libs\slick-carousel\1.8.1\slick-theme.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ajax\libs\slick-carousel\1.8.1\slick.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ajax\libs\slick-carousel\1.8.1\slick.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://d1mon18jetsxtl.cloudfront.net/adda20mobile_1680887237666-e90l5o939lg6h2nhe.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\adda20mobile_1680887237666-e90l5o939lg6h2nhe.png
+Content Type: application/octet-stream
+
+Uri: https://d1mon18jetsxtl.cloudfront.net/adda20_1680886890285-e90l5o939lg6gv7fx.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\adda20_1680886890285-e90l5o939lg6gv7fx.png
+Content Type: application/octet-stream
+
+Uri: https://d3vu9v8a1k53zc.cloudfront.net/apk/KhiladiAdda-U2.1.0.apk
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\apk\KhiladiAdda-U2.1.0.apk
+Content Type: application/vnd.android.package-archive
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Roboto&display=swap
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://khiladiadda-assets.s3.us-east-2.amazonaws.com/circle-xmark-solid.svg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\circle-xmark-solid.svg
+Content Type: image/svg+xml
+
+Uri: https://khiladiadda-live.ap-south-1.linodeobjects.com/KhiladiAdda_2.1.4.apk
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\KhiladiAdda_2.1.4.apk
+Content Type: application/vnd.android.package-archive
+
+Uri: https://kit.fontawesome.com/2987af8ebe.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\2987af8ebe.js
+Content Type: text/javascript
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttp%253A%252F%252F127.0.0.1%253A5500%252Fblogs%252F5-players-towatch-in-india-vs-australia-match.html&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://platform.twitter.com/widgets.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\widgets.js
+Content Type: application/javascript
+
+Uri: https://publicbiography.com/public/uploads/303766bea2f71e6b47dc796bfe00de8d.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\public\uploads\303766bea2f71e6b47dc796bfe00de8d.webp
+Content Type: image/webp
+
+Uri: https://recognition-be.startupindia.gov.in/s3/download/document/OLD_MIGRATED_STARTUP_APP_CERT_RECOG_DOC/DIPP42145_TECHBELIEVER_TECHNOLOGIES_PRIVATE_LIMITED_Recognization.pdf
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\s3\download\document\OLD_MIGRATED_STARTUP_APP_CERT_RECOG_DOC\DIPP42145_TECHBELIEVER_TECHNOLOGIES_PRIVATE_LIMITED_Recognization.pdf
+Content Type: application/pdf
+
+Uri: https://s7.addthis.com/js/300/addthis_widget.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\js\300\addthis_widget.js
+Content Type: application/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\translate_a\element.js
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-XLV7G6RECE
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.khiladiadda.com/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/about/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\about\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/AIGF2212038.pdf
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\AIGF2212038.pdf
+Content Type: application/pdf
+
+Uri: https://www.khiladiadda.com/anti-money-laundering-policies/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\anti-money-laundering-policies\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/assets/icons/close-icon.svg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\icons\close-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.khiladiadda.com/assets/icons/facebook.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\icons\facebook.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/icons/insta.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\icons\insta.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/icons/nav-toggle.svg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\icons\nav-toggle.svg
+Content Type: image/svg+xml
+
+Uri: https://www.khiladiadda.com/assets/icons/youtube.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\icons\youtube.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/3x.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\3x.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/Abhay Raj 1@1x.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\Abhay Raj 1@1x.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/aigf.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\aigf.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/android.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\android.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/apple.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\apple.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/Avdesh.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\Avdesh.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/Battleground-Logo-Desktop.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\Battleground-Logo-Desktop.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/assets/images/bgmi-cover.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\bgmi-cover.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/assets/images/bgmi-logo@x3.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\bgmi-logo@x3.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/bgmi-mobile.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\bgmi-mobile.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/bgmi.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\bgmi.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/bgmi/cashfree.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\bgmi\cashfree.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/bgmi/fanbattle.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\bgmi\fanbattle.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/bgmi/paytm.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\bgmi\paytm.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/bgmi/quizzes.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\bgmi\quizzes.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/assets/images/bgmi/ssl.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\bgmi\ssl.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/bgmi/startupindia.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\bgmi\startupindia.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/bgmi/upi.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\bgmi\upi.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/down2.gif
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\down2.gif
+Content Type: image/gif
+
+Uri: https://www.khiladiadda.com/assets/images/fan-battle-bg.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\fan-battle-bg.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/assets/images/fan-cricket-bg.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\fan-cricket-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/assets/images/fan-cricket.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\fan-cricket.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/assets/images/fanbattle/1crWinn.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\fanbattle\1crWinn.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/fanbattle/hero-image.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\fanbattle\hero-image.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/fanbattle/millionUser.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\fanbattle\millionUser.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/fanbattle/step1.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\fanbattle\step1.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/fanbattle/step2.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\fanbattle\step2.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/fanbattle/step3.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\fanbattle\step3.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/favicon.ico
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.khiladiadda.com/assets/images/feature/group-543.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\feature\group-543.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/feature/group-544.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\feature\group-544.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/feature/group-557.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\feature\group-557.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/feature/group-558.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\feature\group-558.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/finalCourt.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\finalCourt.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/finalCourtMobile.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\finalCourtMobile.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/finalRummy.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\finalRummy.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire-cover.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire-cover.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/assets/images/Freefire-Desktop.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\Freefire-Desktop.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/assets/images/freefire-logo@x3.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire-logo@x3.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/Freefire-Mobile-1.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\Freefire-Mobile-1.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire-other-games.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire-other-games.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/amarnath-gupta.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\amarnath-gupta.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/bgmi.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\bgmi.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/circle-border-img.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\circle-border-img.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/circle-img1.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\circle-img1.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/close.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\close.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/earning-cards-mobile-new.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\earning-cards-mobile-new.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/featuring-highlights.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\featuring-highlights.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/free-league-ff.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\free-league-ff.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/freefire-mobile.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\freefire-mobile.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/freefire.mp4
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\freefire.mp4
+Content Type: video/mp4
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/freefire.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\freefire.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/GodL-Logo.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\GodL-Logo.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/invited-orangutan.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\invited-orangutan.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/krishna-patel.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\krishna-patel.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/leaderboard-rewards.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\leaderboard-rewards.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/ludo.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\ludo.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/Mikee.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\Mikee.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/new-earning-cards-ff.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\new-earning-cards-ff.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/new-match.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\new-match.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/newTeam1.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\newTeam1.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/newTeam2.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\newTeam2.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/newTeam3.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\newTeam3.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/padam-singh.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\padam-singh.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/rakesh-sunda.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\rakesh-sunda.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/scratch-ffnew.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\scratch-ffnew.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/TSG-ARMY-logo.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\TSG-ARMY-logo.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/umer-nabi.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\umer-nabi.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/freefire/withdrawal.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\freefire\withdrawal.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/games/bgmi.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\games\bgmi.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/games/courtLogo.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\games\courtLogo.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/games/droido.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\games\droido.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/assets/images/games/freefire-mobile-bg.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\games\freefire-mobile-bg.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/games/freefire.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\games\freefire.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/games/ludo.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\games\ludo.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/games/quizzes.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\games\quizzes.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/games/rummyLogo.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\games\rummyLogo.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/games/wordsearch.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\games\wordsearch.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/assets/images/ipl-bgmi.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\ipl-bgmi.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/assets/images/khiladi-adda-logo.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\khiladi-adda-logo.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/khiladiaddalogo.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\khiladiaddalogo.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/linkedin.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\linkedin.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/new247.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\new247.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/newMockup.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\newMockup.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/partners/cashfree.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\partners\cashfree.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/partners/easebuzz2.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\partners\easebuzz2.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/partners/paytm.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\partners\paytm.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/partners/upi.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\partners\upi.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/phonepe-logo-icon.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\phonepe-logo-icon.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/assets/images/Pradeep.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\Pradeep.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/assets/images/Pratap Singh.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\Pratap Singh.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/profiles/Ram.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\profiles\Ram.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/assets/images/quizzes.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\quizzes.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/assets/images/Ram.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\Ram.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/refer.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\refer.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/rummyMobileFinal.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\rummyMobileFinal.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/scan-qr-home.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\scan-qr-home.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/scan-qr-text.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\scan-qr-text.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/sit.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\sit.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/support.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\support.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/twitter.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\twitter.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/unnamed.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\unnamed.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/vector 9.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\vector 9.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/wallet.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\wallet.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/images/whatsapp.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\images\whatsapp.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/cashfree.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\cashfree.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/easebuzz2.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\easebuzz2.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/feedback.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\feedback.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/icons/facebook.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\icons\facebook.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/icons/insta.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\icons\insta.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/icons/youtube.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\icons\youtube.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/Ikbal 2.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\Ikbal 2.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/Ikbal 3.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\Ikbal 3.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/Ikbal 7.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\Ikbal 7.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/install1.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\install1.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/install2.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\install2.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/install3.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\install3.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/ludo-backdrop-left.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\ludo-backdrop-left.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/assets/ludo/ludo-backdrop-right.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\ludo-backdrop-right.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/assets/ludo/Main-Slider-Art-mobile.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\Main-Slider-Art-mobile.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/Main-Slider-Art-tablet.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\Main-Slider-Art-tablet.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/Main-Slider-Art.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\Main-Slider-Art.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/assets/ludo/Paytm.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\Paytm.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/Profiles/Abhay-Raj.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\Profiles\Abhay-Raj.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/assets/ludo/Profiles/devilal.jpeg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\Profiles\devilal.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/assets/ludo/Profiles/Pradeep.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\Profiles\Pradeep.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/assets/ludo/Profiles/Pratap-Singh.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\Profiles\Pratap-Singh.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/assets/ludo/Profiles/Ram.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\Profiles\Ram.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/assets/ludo/Profiles/raviKumar.jpeg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\Profiles\raviKumar.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/assets/ludo/Profiles/rohit.jpeg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\Profiles\rohit.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/assets/ludo/referrals1.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\referrals1.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/register.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\register.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/security and like.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\security and like.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/support.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\support.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/UPI.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\UPI.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/assets/ludo/withdraw.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\assets\ludo\withdraw.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/bgmi/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\bgmi\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/10-Best-Garena’s-Free-Fire-Guns–Ranked/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\10-Best-Garena’s-Free-Fire-Guns–Ranked\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/10-Fascinating-Facts-about-Sachin-Tendulkar/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\10-Fascinating-Facts-about-Sachin-Tendulkar\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/3-Reasons-Why-Fan-Engagement-is-Necessary/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\3-Reasons-Why-Fan-Engagement-is-Necessary\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/3-Upcoming-Mobile-titles-that-can-revive-mobile-esports-in-India/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\3-Upcoming-Mobile-titles-that-can-revive-mobile-esports-in-India\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/3-Ways-to-Get-Free-Fire-Skins-for-Free/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\3-Ways-to-Get-Free-Fire-Skins-for-Free\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/4-Ways-to-Obtain-Free-Skin-in-PUBG-Mobile/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\4-Ways-to-Obtain-Free-Skin-in-PUBG-Mobile\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/5-Android-Games-like-Battleground’s-Mobile-India -BGMI/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\5-Android-Games-like-Battleground’s-Mobile-India -BGMI\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/5-Differences-between-BGMI-&-New-State-Mobile/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\5-Differences-between-BGMI-&-New-State-Mobile\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/5-largest-BGMI-Tournaments-to-Date/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\5-largest-BGMI-Tournaments-to-Date\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/5-Players-to-Look-Out-for-in-Pak-Vs-Afg-Match/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\5-Players-to-Look-Out-for-in-Pak-Vs-Afg-Match\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/5-Players-to-Look-Out-for-in-PAK-vs-HK-Match/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\5-Players-to-Look-Out-for-in-PAK-vs-HK-Match\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/5-Players-to-Watch-in-Ind-Vs-Afg-Match/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\5-Players-to-Watch-in-Ind-Vs-Afg-Match\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/5-Players-to-Watch-in-Ind-Vs-SL-Match/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\5-Players-to-Watch-in-Ind-Vs-SL-Match\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/5-Players-to-Watch-in-India-Vs-Australia-Match/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\5-Players-to-Watch-in-India-Vs-Australia-Match\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/50-Unique-Stylish-Names-for-BGMI-Players/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\50-Unique-Stylish-Names-for-BGMI-Players\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/50-Unique-Stylish-Names-for-Free-Fire-Max-Players/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\50-Unique-Stylish-Names-for-Free-Fire-Max-Players\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/6-Players-to-Watch-in-Today’s-Asia-Cup-Final/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\6-Players-to-Watch-in-Today’s-Asia-Cup-Final\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/7-Lesser-Known-Facts-About-Virat-Kohli/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\7-Lesser-Known-Facts-About-Virat-Kohli\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/Best-New-State-Mobile-Sensitivity-Adjustment-for-Max-Kill/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\Best-New-State-Mobile-Sensitivity-Adjustment-for-Max-Kill\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/blog.css
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\blog.css
+Content Type: text/css
+
+Uri: https://www.khiladiadda.com/blogs/blog.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\blog.js
+Content Type: application/javascript
+
+Uri: https://www.khiladiadda.com/blogs/Border-Gavaskar-Trophy-Five-biggest-banters-in-India-vs-Australia/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\Border-Gavaskar-Trophy-Five-biggest-banters-in-India-vs-Australia\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/Can-Your-Phone-Play-Free-Fire-Max/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\Can-Your-Phone-Play-Free-Fire-Max\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/Download-and-Install-PUBG-Mobile-Latest-Version/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\Download-and-Install-PUBG-Mobile-Latest-Version\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/Esports-recognised-as-a-part-of-multisport-event-by-GOI/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\Esports-recognised-as-a-part-of-multisport-event-by-GOI\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/Free-Fire-India-ban:Why-no-Return-Date-has-Been-Set-Yet/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\Free-Fire-India-banWhy-no-Return-Date-has-Been-Set-Yet\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/Free-Fire-MAX-OB35-Update-for-iOS-and-Android/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\Free-Fire-MAX-OB35-Update-for-iOS-and-Android\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/Garena-Free-Fire-SUED-by-Krafton-for-copying-PUBG/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\Garena-Free-Fire-SUED-by-Krafton-for-copying-PUBG\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/GOI-announces-e-gaming-policy-with-mandatory-players-verification/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\GOI-announces-e-gaming-policy-with-mandatory-players-verification\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/How-to-acquire-FF-MAX-diamonds-for-S53-Elite-Pass/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\How-to-acquire-FF-MAX-diamonds-for-S53-Elite-Pass\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/How-to-Download-Free-Fire-Max-on-Android-PC-and-Laptop/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\How-to-Download-Free-Fire-Max-on-Android-PC-and-Laptop\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/How-to-Download-Free-Fire-Max-on-iOS/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\How-to-Download-Free-Fire-Max-on-iOS\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/How-to-Download-Free-Fire-max-on-PC/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\How-to-Download-Free-Fire-max-on-PC\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/How-to-Download-PUBG-New-State-Mobile/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\How-to-Download-PUBG-New-State-Mobile\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/How-to-Download-the-Latest-PUBG-Mobile-Lite-APK+OBB-Version/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\How-to-Download-the-Latest-PUBG-Mobile-Lite-APK OBB-Version\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/How-to-Fix-the-Transaction-failed-2999-error-in-FF-MAX/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\How-to-Fix-the-Transaction-failed-2999-error-in-FF-MAX\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/How-to-lower-the-cost-of-diamonds-in-Free-Fire-MAX/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\How-to-lower-the-cost-of-diamonds-in-Free-Fire-MAX\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/How-to-Reduce-Lag-in-FF-Max-after-OB-37-Update/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\How-to-Reduce-Lag-in-FF-Max-after-OB-37-Update\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/How-to-submit-a-ticket-for-airdrop-issue-in-FF/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\How-to-submit-a-ticket-for-airdrop-issue-in-FF\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/images/10-Fascinating-Facts-about-Sachin-Tendulkar.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\10-Fascinating-Facts-about-Sachin-Tendulkar.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/11ChallengerBlog.jpeg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\11ChallengerBlog.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/11wicketblog.jpeg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\11wicketblog.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/3-Reasons-Why-Fan-Engagement-is-Necessary.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\3-Reasons-Why-Fan-Engagement-is-Necessary.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/3-Upcoming-Mobile-titles-that-can-revive-mobile-esports-in-India.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\3-Upcoming-Mobile-titles-that-can-revive-mobile-esports-in-India.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/3-Ways-to-Get-Free-Fire-Skins-for-Free.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\3-Ways-to-Get-Free-Fire-Skins-for-Free.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/5-android-games.jpeg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\5-android-games.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/5-Differences-between-BGMI-and-New-State-Mobile.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\5-Differences-between-BGMI-and-New-State-Mobile.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/5-Key-Players-to-Look-Out-for-in-Pakistan-Vs-Afghanistan-Asia-Cup-Match.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\5-Key-Players-to-Look-Out-for-in-Pakistan-Vs-Afghanistan-Asia-Cup-Match.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/5-largest-tournament.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\5-largest-tournament.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/5-Players-to-Watch-in-India-Vs-Afghanistan-Match.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\5-Players-to-Watch-in-India-Vs-Afghanistan-Match.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/5-Players-to-Watch-in-Todays-Match-India-Vs-Sri-Lanka.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\5-Players-to-Watch-in-Todays-Match-India-Vs-Sri-Lanka.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/5-players-towatch-in-india-vs-australia-match.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\5-players-towatch-in-india-vs-australia-match.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/5-Players-You-Should-Look-Out-for-in-Pakistan-vs-Hong-Kong-Match-1.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\5-Players-You-Should-Look-Out-for-in-Pakistan-vs-Hong-Kong-Match-1.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/50-Unique-Stylish-Names-for-BGMI-Players.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\50-Unique-Stylish-Names-for-BGMI-Players.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/50-Unique-Stylish-Names-for-Free-Fire-Max-Players.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\50-Unique-Stylish-Names-for-Free-Fire-Max-Players.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/6-Players-to-Watch-in-Todays-Asia-Cup-Final.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\6-Players-to-Watch-in-Todays-Asia-Cup-Final.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/7-Lesser-Known-Facts-About-Virat-Kohli.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\7-Lesser-Known-Facts-About-Virat-Kohli.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/angles-left-solid.svg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\angles-left-solid.svg
+Content Type: image/svg+xml
+
+Uri: https://www.khiladiadda.com/blogs/images/angles-right-solid.svg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\angles-right-solid.svg
+Content Type: image/svg+xml
+
+Uri: https://www.khiladiadda.com/blogs/images/Babar-Hayat.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\Babar-Hayat.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/babr-azam.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\babr-azam.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/ballebaziBlog.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\ballebaziBlog.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/Battlegrounds-Mobile-India-Series.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\Battlegrounds-Mobile-India-Series.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/Best-New-State-Mobile-Sensitivity-Adjustment-for-Max-Kill.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\Best-New-State-Mobile-Sensitivity-Adjustment-for-Max-Kill.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/BGMI-Launch-Party.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\BGMI-Launch-Party.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/BGMI-Masters-Series.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\BGMI-Masters-Series.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/blog-banner05.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\blog-banner05.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/BMPS.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\BMPS.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/Border-Gavaskar-Trophy-Five-biggest-banters-in-India-vs-Australia.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\Border-Gavaskar-Trophy-Five-biggest-banters-in-India-vs-Australia.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/Can-Your-Phone-Play-Free-Fire-Max.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\Can-Your-Phone-Play-Free-Fire-Max.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/cod-mobile.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\cod-mobile.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/crickBlog.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\crickBlog.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/download-banner.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\download-banner.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/dream11.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\dream11.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/Esports-recognised-as-a-part-of-multisport-event-by-GOI.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\Esports-recognised-as-a-part-of-multisport-event-by-GOI.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/fan2PlayBlog.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\fan2PlayBlog.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/fantasyBlog.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\fantasyBlog.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/Free-Fire-India-ban-Why-no-Return-Date-has-Been-Set-Yet.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\Free-Fire-India-ban-Why-no-Return-Date-has-Been-Set-Yet.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/free-fire-max.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\free-fire-max.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/free-fire-official-store.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\free-fire-official-store.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/free-fire.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\free-fire.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/freefire-max2.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\freefire-max2.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/gamezyBlog.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\gamezyBlog.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/garena-blog.jpeg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\garena-blog.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/Garena-Free-Fire-SUED-by-Krafton-for-copying-PUBG.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\Garena-Free-Fire-SUED-by-Krafton-for-copying-PUBG.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/GOI-announces-e-gaming-policy-with-mandatory-players-verification.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\GOI-announces-e-gaming-policy-with-mandatory-players-verification.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/How-to-acquire-FF-MAX-diamonds-for-S53-Elite-Pass.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\How-to-acquire-FF-MAX-diamonds-for-S53-Elite-Pass.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/How-to-Download-Free-Fire-Max-on-Android-PC-and-Laptop.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\How-to-Download-Free-Fire-Max-on-Android-PC-and-Laptop.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/How-to-Download-Free-Fire-Max-on-iOS.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\How-to-Download-Free-Fire-Max-on-iOS.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/How-to-Download-Free-Fire-max-on-PC.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\How-to-Download-Free-Fire-max-on-PC.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/How-to-Download-PUBG-New-State-on-Android-iOS-PC.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\How-to-Download-PUBG-New-State-on-Android-iOS-PC.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/How-to-Download-PUBG-New-State.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\How-to-Download-PUBG-New-State.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/How-to-Download-the-Free-Fire-MAX-OB35-Update-for-iOS-and-Android-Phones-and-Tablets.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\How-to-Download-the-Free-Fire-MAX-OB35-Update-for-iOS-and-Android-Phones-and-Tablets.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/How-to-Download-the-Latest-PUBG-Mobile-Lite.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\How-to-Download-the-Latest-PUBG-Mobile-Lite.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/How-to-lower-the-cost-of-diamonds-in-Free-Fire-MAX.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\How-to-lower-the-cost-of-diamonds-in-Free-Fire-MAX.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/How-to-Reduce-Lag-in-FF-Max-after-OB-37-Update.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\How-to-Reduce-Lag-in-FF-Max-after-OB-37-Update.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/How-to-submit-a-ticket-for-airdrop-issue-in-FF.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\How-to-submit-a-ticket-for-airdrop-issue-in-FF.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/howzatBlog.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\howzatBlog.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/Iftikhar-Ahmed.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\Iftikhar-Ahmed.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/igamioBlog.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\igamioBlog.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/image-13.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\image-13.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/blogs/images/IOC-announces-Olympic-Esports-Series-2023-with-Singapore-to-host-its-finals.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\IOC-announces-Olympic-Esports-Series-2023-with-Singapore-to-host-its-finals.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/IPL-2023-Nitish-Rana-and-co-looking-to-disrupt-Gujarat's-winning-streak.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\IPL-2023-Nitish-Rana-and-co-looking-to-disrupt-Gujarat's-winning-streak.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/khiladiaddaBlog.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\khiladiaddaBlog.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/blogs/images/kusal-mendis.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\kusal-mendis.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/lag-in-ff-max.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\lag-in-ff-max.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/mobile-banner05.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\mobile-banner05.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/mohd-rizwan.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\mohd-rizwan.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/mplBlog.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\mplBlog.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/blogs/images/my11circleBlog.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\my11circleBlog.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/blogs/images/myfab11Blog.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\myfab11Blog.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/blogs/images/myteam11Blog.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\myteam11Blog.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/najibullah-zadran.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\najibullah-zadran.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/naseem-shah.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\naseem-shah.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/new-state-mobile.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\new-state-mobile.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/newSideBanner.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\newSideBanner.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/blogs/images/Nizakat-Khan.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\Nizakat-Khan.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/notify-img.jpeg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\notify-img.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/One-Last-Tussle-Before-the-Finals-Pak-Vs-Sl.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\One-Last-Tussle-Before-the-Finals-Pak-Vs-Sl.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/pathum-nissanka.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\pathum-nissanka.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/paytmFirstBlog.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\paytmFirstBlog.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/pubg-free-skin.jpeg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\pubg-free-skin.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/PUBG-Mobile-Lite-vs-Free-Fire-Heres-all-you-need-to-know.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\PUBG-Mobile-Lite-vs-Free-Fire-Heres-all-you-need-to-know.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/rahmanullah-gurbaz.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\rahmanullah-gurbaz.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/real11Blog.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\real11Blog.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/blogs/images/rohit-sharma.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\rohit-sharma.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/royal11Blog.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\royal11Blog.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/search.svg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\search.svg
+Content Type: image/svg+xml
+
+Uri: https://www.khiladiadda.com/blogs/images/Skyesports-Championship.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\Skyesports-Championship.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/surya-kumar-yadav.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\surya-kumar-yadav.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/The-Top-5-Evo-skins-for-Free-Fire-MAX.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\The-Top-5-Evo-skins-for-Free-Fire-MAX.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/Top-20-fantasy-cricket-apps-in-India.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\Top-20-fantasy-cricket-apps-in-India.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/Top-3-BR-Games-Comparable-to-BGMI.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\Top-3-BR-Games-Comparable-to-BGMI.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/Top-5-Strategic-Games-in-India.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\Top-5-Strategic-Games-in-India.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/blogs/images/top-pubg-guns.jpeg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\top-pubg-guns.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/top-pubg-player.jpeg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\top-pubg-player.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/transaction-failed-2999-error-ffmax.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\transaction-failed-2999-error-ffmax.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/Transaction-failed-2999.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\Transaction-failed-2999.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/Virat-Kohli.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\Virat-Kohli.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/vision11Blog.jpg
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\vision11Blog.jpg
+Content Type: image/jpeg
+
+Uri: https://www.khiladiadda.com/blogs/images/wanindu-hasaranga.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\wanindu-hasaranga.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/What-Beginner-Got-Wrong-About-Free-Fire-Game-Play.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\What-Beginner-Got-Wrong-About-Free-Fire-Game-Play.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/What-is-Honor-Score-in-FreeFireMax.webp
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\What-is-Honor-Score-in-FreeFireMax.webp
+Content Type: image/webp
+
+Uri: https://www.khiladiadda.com/blogs/images/winzoBlog.png
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\images\winzoBlog.png
+Content Type: image/png
+
+Uri: https://www.khiladiadda.com/blogs/index.html
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\index.html
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/IOC-announces-Olympic-Esports-Series-2023-with-Singapore-to-host-its-finals/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\IOC-announces-Olympic-Esports-Series-2023-with-Singapore-to-host-its-finals\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/IPL-2023-Nitish-Rana-and-co-looking-to-disrupt-Gujarat's-winning-streak/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\IPL-2023-Nitish-Rana-and-co-looking-to-disrupt-Gujarat's-winning-streak\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/Pak-Vs-SL-Asia-Cup-Match-Semi-Finale/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\Pak-Vs-SL-Asia-Cup-Match-Semi-Finale\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/PUBG-Mobile-Lite-vs-Free-Fire:-Here’s-all-you-need-to-know/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\PUBG-Mobile-Lite-vs-Free-Fire-Here’s-all-you-need-to-know\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/slide.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\slide.js
+Content Type: application/javascript
+
+Uri: https://www.khiladiadda.com/blogs/The-Top-5-Evo-skins-for-Free-Fire-MAX/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\The-Top-5-Evo-skins-for-Free-Fire-MAX\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/Top-10-PUBG-Guns-Ranked/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\Top-10-PUBG-Guns-Ranked\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/Top-10-PUBG-Players-in-the-World-Ranked/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\Top-10-PUBG-Players-in-the-World-Ranked\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/Top-20-fantasy-cricket-apps-in-India/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\Top-20-fantasy-cricket-apps-in-India\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/Top-20-fantasy-cricket-apps-in-India//
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\Top-20-fantasy-cricket-apps-in-India\index-1.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/Top-20-fantasy-cricket-apps-in-India/index.html
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\Top-20-fantasy-cricket-apps-in-India\index.html
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/Top-3-BR-Games-Comparable-to-BGMI/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\Top-3-BR-Games-Comparable-to-BGMI\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/Top-5-Strategic-Games-in-India/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\Top-5-Strategic-Games-in-India\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/What-Beginner-Got-Wrong-About-Free-Fire/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\What-Beginner-Got-Wrong-About-Free-Fire\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/blogs/What-is-Honor-Score-in-Free-Fire-Max/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\blogs\What-is-Honor-Score-in-Free-Fire-Max\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/cancellation-policy/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\cancellation-policy\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/commando.ttf
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\commando.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.khiladiadda.com/contactus/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\contactus\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/courtpiece/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\courtpiece\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/css/about.css
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\css\about.css
+Content Type: text/css
+
+Uri: https://www.khiladiadda.com/css/bgmi.css
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\css\bgmi.css
+Content Type: text/css
+
+Uri: https://www.khiladiadda.com/css/cancellation-policy.css
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\css\cancellation-policy.css
+Content Type: text/css
+
+Uri: https://www.khiladiadda.com/css/fanbattle.css
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\css\fanbattle.css
+Content Type: text/css
+
+Uri: https://www.khiladiadda.com/css/faqs.css
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\css\faqs.css
+Content Type: text/css
+
+Uri: https://www.khiladiadda.com/css/index.css
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\css\index.css
+Content Type: text/css
+
+Uri: https://www.khiladiadda.com/css/ipl.css
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\css\ipl.css
+Content Type: text/css
+
+Uri: https://www.khiladiadda.com/css/legality.css
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\css\legality.css
+Content Type: text/css
+
+Uri: https://www.khiladiadda.com/css/ludo.css
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\css\ludo.css
+Content Type: text/css
+
+Uri: https://www.khiladiadda.com/css/privacy-policy.css
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\css\privacy-policy.css
+Content Type: text/css
+
+Uri: https://www.khiladiadda.com/fanbattle/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\fanbattle\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/faqs/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\faqs\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/favicon.ico
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.khiladiadda.com/finance-bill-2023-approved-Amendments.pdf
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\finance-bill-2023-approved-Amendments.pdf
+Content Type: application/pdf
+
+Uri: https://www.khiladiadda.com/freefiremax/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\freefiremax\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/js/fanbattle.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\js\fanbattle.js
+Content Type: application/javascript
+
+Uri: https://www.khiladiadda.com/js/freefire.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\js\freefire.js
+Content Type: application/javascript
+
+Uri: https://www.khiladiadda.com/js/ipl.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\js\ipl.js
+Content Type: application/javascript
+
+Uri: https://www.khiladiadda.com/js/libs/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\js\libs\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://www.khiladiadda.com/js/ludo.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\js\ludo.js
+Content Type: application/javascript
+
+Uri: https://www.khiladiadda.com/js/main.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.khiladiadda.com/js/onelink-smart-script.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\js\onelink-smart-script.js
+Content Type: application/javascript
+
+Uri: https://www.khiladiadda.com/legality/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\legality\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/ludo/fonts/commando.ttf
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ludo\fonts\commando.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.khiladiadda.com/ludoadda/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\ludoadda\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/opinion.pdf
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\opinion.pdf
+Content Type: application/pdf
+
+Uri: https://www.khiladiadda.com/privacy-policy/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/responsible-gaming/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\responsible-gaming\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/rummyadda/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\rummyadda\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/tdsinformation/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\tdsinformation\index.htm
+Content Type: text/html
+
+Uri: https://www.khiladiadda.com/tdsinformation/tds.js
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\tdsinformation\tds.js
+Content Type: application/javascript
+
+Uri: https://www.khiladiadda.com/tdsinformation/tdsFinal.mp3
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\tdsinformation\tdsFinal.mp3
+Content Type: audio/mpeg
+
+Uri: https://www.khiladiadda.com/terms-and-conditions/
+File Name: C:\Downloaded Web Sites\ludo king original website\khiladi ada\www.khiladiadda.com\terms-and-conditions\index.htm
+Content Type: text/html
+
