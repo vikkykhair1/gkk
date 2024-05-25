@@ -1,0 +1,932 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Khiladi Adda TDS Policy</title>
+      <link rel="shortcut icon" href="../assets/images/favicon.ico">
+      <link rel="stylesheet" href="../css/ipl.css">
+      <link rel="stylesheet" href="../css/about.css">
+      <!-- waypoints library for in-out animations -->
+      <script src="../js/libs/jquery.waypoints.min.js" defer=""></script>
+      <script src="../ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+
+      <!-- <script src="../js/ipl.js" defer></script> -->
+   </head>
+   <body class="bodyText">
+      <header class="header-container">
+         <nav class="logo-container ks-logo">
+            <a href="../index.htm"><img src="../assets/images/khiladi-adda-logo.png" alt="logo"></a>
+         </nav>
+      </header>
+      <div class="page-section">
+         <div class="heading mb-2 tdsHeight">
+            <h1 class="page-title tdsTitle">tds</h1>
+            <!-- <h1 class="section-heading">about us</h1> -->
+            <div class="language">
+<p>Language</p>
+               <select id="language-selector" onchange="translatePage()">
+                  <option value="hi">Hindi</option>
+                  <option value="en">English</option>
+                  <!-- add more options as needed -->
+                </select>
+   
+           </div>
+         </div>
+
+         <!-- <audio autoplay muted src="/Tu_Hi_Das_De_1.mp3"></audio> -->
+         <div class="audioDiv">
+            <p>Please Listen this audio carefully to know it better.</p>
+            <audio controls="" id="audioTds" autoplay="false">
+               <source src="tdsFinal.mp3" type="audio/mpeg">
+             </audio>
+         </div>
+ 
+         <div class="page-content English" id="English" style="display: none;">
+
+            <p>
+               In line with the provisions contained in <a href="https://incometaxindia.gov.in/news/finance-bill-2023-highlights.pdf" target="_blank">Finance Act, 2023</a>, according to the updated TDS law , effective from 01 April 2023 , TDS will be deducted at 30% of your net winning at the time of withdrawal.
+            </p>
+            <ul>
+                <li>On Khiladi Adda , New TDS rule will be effective as soon as possible as we are updating our system to reflect the change in law.</li>
+                <li>In the Meanwhile TDS will be paid by Khiladi Adda on your behalf to government.</li>
+               <li>TDS is applicable at the time of withdrawal only on Net Winning.</li>
+               <li>30% TDS is applicable on any positive net winnings at the time of withdrawal means you actually earn some amount of money through your investment then only you have to 30% TDS to the government</li>
+               <li>
+                <b>
+                    Here, Net winnings = Total Withdrawals - Total Deposits (in a financial year). Apr
+                    1 to Mar 31 duration is considered a financial year.
+                </b>
+      
+                
+               </li>
+               <li>Total withdrawals is a sum of your current withdrawal and your all previous withdrawals in one Financial year.</li>
+               <li>Total Deposits is a sum of your total deposits through out the year and the opening balance in the starting of finacial year.</li>
+            </ul>
+            <h2>How was TDS deducted before Apr 1, 2023 :</h2>
+            <ul>
+               <li>
+                  Before Apr 1 2023, TDS was deducted at a game level when the winnings were greater
+                  than 10K.
+               </li>
+            </ul>
+            <p>
+               Example : Previously if I won Rs 11000 in a game, then 30% TDS will be deducted i.e.
+               3300 and hence Rs 7700 will be credited in the withdrawal wallet.
+            </p>
+            <h2>
+               How is the current TDS policy different from the last TDS policy of FY 2022- 2023
+            </h2>
+            <ul>
+               <li>
+                  Post Apr 1, if I win some amount let's assume Rs 11000, NO TDS will be deducted
+                  while crediting that amount in the withdrawal wallet. Entire Rs 11000 will be
+                  transferred to the winnings wallet.
+               </li>
+               <li>
+                  Only when the user will try to withdraw any amount from the wallet, we will look
+                  at the net winnings and basis that calculate the TDS applicable.
+               </li>
+               <li>
+                <b>
+                    Hence we will deduct TDS only when the withdrawal running total is more than the
+                    Deposits. If the user is in loss, there will be no TDS. Hence this will be
+                    beneficial to the users.
+                </b>
+            
+               </li>
+            </ul>
+            <p>
+               Please note that the TDS Policy is based on the understanding of the provisions as
+               introduced/ amended by Finance Act, 2023 and the Company reserves its right to
+               modify/ change/ amend the TDS Policy basis law applicable at the relevant time.
+               <a href="../finance-bill-2023-approved-Amendments.pdf" target="_blank">Attached is the finance bill amendment</a> which says that the policy will be applicable
+               from Apr 1, 2023 rather than July 1, 2023 (Refer to Page 10, Row 31 and 32).
+            </p>
+            <h2>What Does It Mean For Players?</h2>
+            <p>
+               Find below a few scenarios to understand the application of the aforementioned TDS
+               Policy.
+            </p>
+            <p>
+               <b>Scenario 1:</b> If your net winnings (including the withdrawal amount) is more
+               than 0, then 30% TDS will be deducted on the net winnings at the time of withdrawal.
+            </p>
+            <p>
+               <b>Example :</b>
+            </p>
+            <table class="table">
+               <tbody>
+                  <tr>
+                     <td>
+                        <p>Total withdrawals in the financial year(A)</p>
+                     </td>
+                     <td><p>₹5,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Total deposits in the financial year(B)</p>
+                     </td>
+                     <td><p>₹5,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Opening Balance of 1st April (C)</p>
+                     </td>
+                     <td><p>₹5,000</p></td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+               In the above scenario, if you want to withdraw ₹7,000 , then the net winnings will
+               be:
+            </p>
+            <table class="table">
+               <tbody>
+                  <tr>
+                     <td>
+                        <p>Current Amount being withdrawn by the player(D)</p>
+                     </td>
+                     <td><p>₹7,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Net winnings(A + D) - (B + C)</p>
+                     </td>
+                     <td><p>₹2,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>30% TDS Applicable on Net Winnings(E)</p>
+                     </td>
+                     <td><p>₹600</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Amount to be credited in the bank account(D-E)</p>
+                     </td>
+                     <td><p>₹6400</p></td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+               <b>Zero TDS Withdrawal amount:</b> If you withdraw upto ₹5,000 , then there will be
+               zero TDS deducted as net winnings will be ₹0 (₹5,000 + ₹5,000 - ₹10,000). See
+               calculation below:
+            </p>
+            <table class="table">
+               <tbody>
+                  <tr>
+                     <td>
+                        <p>Total withdrawals in the financial year(A)</p>
+                     </td>
+                     <td><p>₹5,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Total deposits in the financial year(B)</p>
+                     </td>
+                     <td><p>₹10,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Amount being withdrawn by the player(C)</p>
+                     </td>
+                     <td><p>₹5,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Net winnings(A+C - B)</p>
+                     </td>
+                     <td><p>₹0</p></td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+               <b>Scenario 2:</b> If you have paid TDS in previous withdrawals, then no TDS is
+               applicable on withdrawals till your net winnings crosses the amount for which you
+               have already paid TDS.
+            </p>
+            <p><b>Example :</b></p>
+            <table class="table">
+               <tbody>
+                  <tr>
+                     <td>
+                        <p>Total withdrawals in the financial year</p>
+                     </td>
+                     <td><p>₹20,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Total deposits in the financial year</p>
+                     </td>
+                     <td><p>₹20,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>
+                           TDS paid in the financial year </p><p>(TDS paid on winnings of ₹6,000 as
+                           initially you had positive net winnings of ₹6,000)</p>
+                        
+                     </td>
+                     <td><p>₹1,800</p></td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+                In this scenario, No TDS applicable till your net winnings crosses ₹6,000 (winnings already taxed):
+            </p>
+            <ul>
+                <li><b>Zero TDS Withdrawal amount</b>: If you withdraw up to ₹6,000, no TDS is applicable</li>
+                   <li> If you withdraw ₹10, 000, then 30% TDS is applicable only on ₹4,000 winnings i.e. ₹1,200.</li>
+            </ul>
+            <p>
+                <b>Scenario 3:</b> You have paid TDS on initial winnings during the financial year but your net winnings have reduced post that.
+             </p>
+             <p><b>Example</b></p>
+             <table class="table">
+                <tbody>
+                   <tr>
+                      <td>
+                         <p>Total withdrawals in the financial year(A)</p>
+                      </td>
+                      <td><p>₹40,000</p></td>
+                   </tr>
+                   <tr>
+                      <td>
+                         <p>Total deposits in the financial year(B)</p>
+                      </td>
+                      <td><p>₹20,000</p></td>
+                   </tr>
+                   <tr>
+                      <td>
+                         <p>Net winnings in the financial year(A-B)</p>
+                      </td>
+                      <td><p>₹20,000</p></td>
+                   </tr>
+                   <tr>
+                      <td>
+                         <p>TDS paid till date</p>
+                      </td>
+                      <td><p>₹6,000</p></td>
+                   </tr>
+                </tbody>
+             </table>
+             <p>Post this, if your net winnings reduces to ₹10,000, then, subject to applicable law, the excess TDS deducted can be claimed as refund in your annual income tax filing.</p>
+          <p>
+            <b>Scenario 4:</b> At the end of the financial year, if you have an amount in your account, then TDS will be calculated on that amount by considering it as a withdrawal of the financial year and remaining amount will be carried forward to next year as starting deposit amount. Withdrawal from the starting deposit amount will not be subject to TDS in the next year.
+          </p>
+          <p>
+            <b>Example :</b>
+          </p>
+          <table class="table">
+            <tbody>
+               <tr>
+                  <td>
+                     <p>Total withdrawals in the financial year(A)</p>
+                  </td>
+                  <td><p>₹40,000</p></td>
+               </tr>
+               <tr>
+                  <td>
+                     <p>Total deposits in the financial year(B)</p>
+                  </td>
+                  <td><p>₹40,000</p></td>
+               </tr>
+               <tr>
+                  <td>
+                     <p>TDS paid till date(C)
+                     </p>
+                        <p>(on winning amount of ₹5,000 as initially you had positive net winnings of ₹5,000)</p>
+                  </td>
+                  <td><p>₹1,500</p></td>
+               </tr>
+               <tr>
+                  <td>
+                     <p>Account balance at the end of Mar 31, 2024(D)</p>
+                  </td>
+                  <td><p>₹30,000</p></td>
+               </tr>
+            </tbody>
+         </table>
+         <p>
+            In above scenario, following calculation is done:
+         </p>
+         <table class="table">
+            <tbody>
+               <tr>
+                  <td>
+                     <p>Total withdrawals in the financial year(A+D)</p>
+                  </td>
+                  <td><p>₹70,000</p></td>
+               </tr>
+               <tr>
+                  <td>
+                     <p>Total deposits in the financial year(B)</p>
+                  </td>
+                  <td><p>₹40,000</p></td>
+               </tr>
+               <tr>
+                  <td>
+                     <p>Net winnings(A+D-B)
+                     </p>
+                      
+                  </td>
+                  <td><p>₹30,000</p></td>
+               </tr>
+               <tr>
+                <td>
+                   <p>30% TDS Applicable on Net Winnings(E)</p>
+                </td>
+                <td><p>₹9,000</p></td>
+             </tr>
+             <tr>
+                <td>
+                   <p>TDS paid till date(C)</p>
+                </td>
+                <td><p>₹1,500</p></td>
+             </tr>
+             <tr>
+                <td>
+                   <p>TDS Remaining to be paid(E-C)
+                   </p>
+                    
+                </td>
+                <td><p>₹7,500</p></td>
+             </tr>
+            </tbody>
+         </table>
+         <p>Thus, ₹7,500 TDS is deducted from your account balance at the end of Mar 31, 2024 and remaining balance of ₹22,500 will be carried forward to the next financial year as deposit amount. You will not have to pay TDS in the next financial year on withdrawal out of this amount.</p>
+       
+  
+       
+
+       
+       
+
+       <!-- <p class="text-md"> Email Id - info@techbeliever.in</p>  -->
+         </div>
+         <div class="page-content hindi" id="hindi">
+
+            <p>
+            <a href="https://incometaxindia.gov.in/news/finance-bill-2023-highlights.pdf" target="_blank">Finance Act, 2023</a> ke updated TDS law ke anusaar aapke withdrawal ke time ki net winning pr 01 April 2023 se 30% ka TDS lagega.
+            </p>
+            <ul>
+                <li>Khiladi Adda pr yeah law jaldi hi applicable hoga jiske liye hum apna system bhi jald se jald update kr rhe hai.</li> 
+          
+          <li>Jab tak hum apna system update nahi kar lete tab tak user ki trf se Khiladi Adda government ko TDS ka payment krega.</li>
+               <li>Withdrawal ke time jab aapki net winning positive hoti hai tabhi usme se 30% TDS deduct hoga aur agar aapki Net Winning zero ya usse kam hoti hai to aapko kisi bhi prakaar ka TDS nahi dena hoga</li>
+               <li>
+                <b>
+                    Here, Net winnings = (Current Withdrawal + All previous withdrawals) - (Total Deposits + opening balance on April 01 ) (in a financial year). Financial year April 01 - March 31 ka hota hai
+                </b>
+              </li>
+              <li>Suppose aap abhi ₹5000 ka withdrawal krte hai aur aapke previous withdrawals ₹7000 hai tb aapka Total Withdrawal hoga ₹12000 aur aapke total deposits iss financial year mai ₹6000 hote hai aur 01 April ko aapka opening balance ₹4000 hai to aapke Total Deposits hoge ₹10000 tb aapki Net Winnings hogi ₹2,000 (₹12000 - ₹10000) ab iss Net winning yani ₹2000 pe 30% TDS deduct hoga jo banta hai ₹600 tab aapke a/c mai ₹6400 jama honge.    </li>
+<li>Maan lete hai aapne abhi withdrawal pr ₹600 ka TDS diya hai aur aapki aagli withdrawal ki Net Winnings pr  ₹1000  ka TDS banta hai tb aapko sirf aur sirf ₹400 (₹1000 - ₹600) ka hi TDS dena hoga isi prakar aapki har withdrawal pr TDS calculate hoga. </li>
+            </ul>
+            <h2>April 1, 2023 se phele TDS kaise lagta tha :</h2>
+            <ul>
+               <li>
+                  April 1 2023 se phele jb aapki winnings 10,000 se jada hoti thi tab TDS lagta tha.
+               </li>
+            </ul>
+            <p>
+
+               Example : Phele agar mai ek game mai ₹11000 jeeta tha tb mere pr 30% TDS lagta jo ki hota ₹3300 aur bache hue ₹7700 mere withdrawal wallet mai jama ho jate hai aur agar mai ₹9000 jeeta to mujhe kisi bhi prakar ka TDS nahi dena hota tha.
+            </p>
+            <h2>
+               Abki TDS policy pichli TDS se kaise alg hai
+            </h2>
+            <ul>
+               <li>
+                  April 1 2023 se phele agar mai suppose ₹11000 jeeta to mere withdrawal wallet mai koi bhi TDS ni lagta aur pure ₹11000 wallet mai jama ho jaate
+               </li>
+          
+               <li>
+                <b>
+                    Matlab  TDS tbhi deduct hota hai jab aapke withdrawals aapke deposits se jada hote hai aur  agar aap loss mai hote hai  to koi bhi TDS ni lagta hai, aur iss prakar se yeah aapke liye faydemand hai.
+                </b>
+            
+               </li>
+            </ul>
+    
+            <p>
+NOTE : Humari TDS policy sirf aur sirf Finance Act, 2023 mai hue changes ki samajh pr bani hai aur humari company ke paas pura adhikaar hai ki hum humari  TDS policy mai jarurt padne pr kisi bhi prakar ka change kar sakte hai.
+Humne  <a href="../finance-bill-2023-approved-Amendments.pdf" target="_blank">finance bill amendment</a> bhi attach kia hai jiske page no. 10 aur row 31 & 32 mai saaf likha hai ki yeah change July  1, 2023 ki jaghe ab Apr 1, 2023 se laagu hoga
+            </p>
+            <h2>Players ka isse kya matlab?</h2>
+            <p>
+           Neeche new TDS policy ko aache se samjhane ke liye kuch examples hai.
+            </p>
+            <p>
+               <b>Scenario 1:</b> Agar aapki net winnings withdrawal amount ko mila kr ₹0 se jada hai to withdrawal ke time net winnings pr 30% TDS lagega.
+            </p>
+            <p>
+               <b>Example :</b>
+            </p>
+            <table class="table">
+               <tbody>
+                  <tr>
+                     <td>
+                        <p>Total withdrawals in the financial year(A)</p>
+                     </td>
+                     <td><p>₹5,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Total deposits in the financial year(B)</p>
+                     </td>
+                     <td><p>₹5,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Opening Balance of 1st April (C)</p>
+                     </td>
+                     <td><p>₹5,000</p></td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+               Upar ke scenario mai agar aap ₹7,000 nikalna chate ho to aapki net winning hogi -
+            </p>
+            <table class="table">
+               <tbody>
+                  <tr>
+                     <td>
+                        <p>Current Amount being withdrawn by the player(D)</p>
+                     </td>
+                     <td><p>₹7,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Net winnings(A + D) - (B + C)</p>
+                     </td>
+                     <td><p>₹2,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>30% TDS Applicable on Net Winnings(E)</p>
+                     </td>
+                     <td><p>₹600</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Amount to be credited in the bank account(D-E)</p>
+                     </td>
+                     <td><p>₹6400</p></td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+               <b>Zero TDS Withdrawal amount:</b> agar aap ₹5,000 tk amount nikalte hai to iss case mai koi bhi TDS nahi lagega kuki aapki net winnings ₹0 (₹5,000 + ₹5,000 - ₹10,000) hogi . Calculations neeche dekhe
+            </p>
+            <table class="table">
+               <tbody>
+                  <tr>
+                     <td>
+                        <p>Total withdrawals in the financial year(A)</p>
+                     </td>
+                     <td><p>₹5,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Total deposits in the financial year(B)</p>
+                     </td>
+                     <td><p>₹10,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Amount being withdrawn by the player(C)</p>
+                     </td>
+                     <td><p>₹15,600</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Net winnings(A+C - B)</p>
+                     </td>
+                     <td><p>₹0</p></td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+               <b>Scenario 2:</b>
+               Agar aapne apni pichli withdrawals mai TDS de dia hai to fir ab jb tk aapki net winnings bo amount cross ni kr leti jisspe aap phele se TDS de chuke hai tab tak aapko koi bhi TDS ni dena hoga
+            </p>
+            <p><b>Example :</b></p>
+            <table class="table">
+               <tbody>
+                  <tr>
+                     <td>
+                        <p>Total withdrawals in the financial year</p>
+                     </td>
+                     <td><p>₹20,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>Total deposits in the financial year</p>
+                     </td>
+                     <td><p>₹20,000</p></td>
+                  </tr>
+                  <tr>
+                     <td>
+                        <p>
+                           TDS paid in the financial year </p><p>(₹6,000 ke shurati winnings pr dia hua TDS)</p>
+                        
+                     </td>
+                     <td><p>₹1,800</p></td>
+                  </tr>
+               </tbody>
+            </table>
+            <p>
+                Is scenario mai jb tk aapki net winnings ₹6,000  se jada ni ho jati tb koi bhi TDS ni lagega:
+            </p>
+            <ul>
+                <li><b>Zero TDS Withdrawal amount</b>: Agar aap kewal ₹6,000 tk ka amount withdraw krte hai to koi TDS ni lagega</li>
+                   <li> Agar aap ₹10,000 withdraw karege, to kewal ₹4,000 pr hi TDS lagega jo hoga ₹1,200</li>
+            </ul>
+            <p>
+                <b>Scenario 3:</b> Financial year mai agar aapne shurat ki winnings pr TDS dia hai aur aakhir mai aapki net winnings kam ho gai to 
+             </p>
+             <p><b>Example</b></p>
+             <table class="table">
+                <tbody>
+                   <tr>
+                      <td>
+                         <p>Total withdrawals in the financial year(A)</p>
+                      </td>
+                      <td><p>₹40,000</p></td>
+                   </tr>
+                   <tr>
+                      <td>
+                         <p>Total deposits in the financial year(B)</p>
+                      </td>
+                      <td><p>₹20,000</p></td>
+                   </tr>
+                   <tr>
+                      <td>
+                         <p>Net winnings in the financial year(A-B)</p>
+                      </td>
+                      <td><p>₹20,000</p></td>
+                   </tr>
+                   <tr>
+                      <td>
+                         <p>TDS paid till date</p>
+                      </td>
+                      <td><p>₹6,000</p></td>
+                   </tr>
+                </tbody>
+             </table>
+                <p>Iske baad agar aapki net winnings ₹10,000 se kam hoti hai to law 
+                    ke according jada dia hua TDS aap refund claim kr skte hai apni annual income tax filling mai </p>
+ 
+          <p>
+            <b>Scenario 4:</b> Financial year ke aakhir mai agar aapke wallet mai kuch bhi amount hai to uspe TDS 
+            lagega jisse aapka withdrawal maana jaega aur baki bcha hua amount aapke agle financial year mai wallet mai jama ho jaega.
+            Deposit ke start mai kiya hua withdrawal pr TDS ni lagega
+          </p>
+          <p>
+            <b>Example :</b>
+          </p>
+          <table class="table">
+            <tbody>
+               <tr>
+                  <td>
+                     <p>Total withdrawals in the financial year(A)</p>
+                  </td>
+                  <td><p>₹40,000</p></td>
+               </tr>
+               <tr>
+                  <td>
+                     <p>Total deposits in the financial year(B)</p>
+                  </td>
+                  <td><p>₹40,000</p></td>
+               </tr>
+               <tr>
+                  <td>
+                     <p>TDS paid till date(C)
+                     </p>
+                        <p>(on winning amount of ₹5,000 as initially you had positive net winnings of ₹5,000)</p>
+                  </td>
+                  <td><p>₹1,500</p></td>
+               </tr>
+               <tr>
+                  <td>
+                     <p>Account balance at the end of Mar 31, 2024(D)</p>
+                  </td>
+                  <td><p>₹30,000</p></td>
+               </tr>
+            </tbody>
+         </table>
+         <p>
+            In above scenario, following calculation is done:
+         </p>
+         <table class="table">
+            <tbody>
+               <tr>
+                  <td>
+                     <p>Total withdrawals in the financial year(A+D)</p>
+                  </td>
+                  <td><p>₹70,000</p></td>
+               </tr>
+               <tr>
+                  <td>
+                     <p>Total deposits in the financial year(B)</p>
+                  </td>
+                  <td><p>₹40,000</p></td>
+               </tr>
+               <tr>
+                  <td>
+                     <p>Net winnings(A+D-B)
+                     </p>
+                      
+                  </td>
+                  <td><p>₹30,000</p></td>
+               </tr>
+               <tr>
+                <td>
+                   <p>30% TDS Applicable on Net Winnings(E)</p>
+                </td>
+                <td><p>₹9,000</p></td>
+             </tr>
+             <tr>
+                <td>
+                   <p>TDS paid till date(C)</p>
+                </td>
+                <td><p>₹1,500</p></td>
+             </tr>
+             <tr>
+                <td>
+                   <p>TDS Remaining to be paid(E-C)
+                   </p>
+                    
+                </td>
+                <td><p>₹7,500</p></td>
+             </tr>
+            </tbody>
+         </table>
+  <p>Matlab Mar 31, 
+    2024 ko aapke account se kewal ₹7,500 ka hi TDS kaata jaega aur bacha hua ₹22,500 aage saal ke deposit mai jama ho jaega aur agle finacial year mai withdrawal ke time aapko iss pe koi bhi tax ni dena hai </p>
+         </div>
+         <div class="tdsCalculator">
+            <h3>Sample TDS Calculator</h3>
+            <form onsubmit="event.preventDefault(); validateMyForm();">
+                <div class="inputDIV">
+                    <p>
+                        Total Withdrawal in this Financial Year (A):
+                    </p>
+                    <input type="number" name="" id="valueA">
+                </div>
+                <div class="inputDIV">
+                    <p>
+                        Total Deposits in the Financial Year (B):
+                    </p>
+                    <input type="number" name="" id="valueB">
+                </div>
+                <div class="inputDIV">
+                  <p>
+                      Opening Balance of 1st April (C):
+                  </p>
+                  <input type="number" name="" id="valueC">
+              </div>
+                <div class="inputDIV">
+                    <p>
+                        Current Amount Being Withdrawn By the Player (D):
+                    </p>
+                    <input type="number" name="" id="valueD">
+                </div>
+                <div class="inputDIV">
+                  <p>
+                      TDS Already Paid (G);
+                  </p>
+                  <input type="text" name="" id="valueG">
+              </div>
+                <div class="inputDIV">
+                    <input type="submit" value="Calculate TDS" class="submitButton">
+                </div>
+                <div class="inputDIV">
+                    <p>
+                        Net Winning (A+D)-(B+C):
+                    </p>
+                    <input type="text" name="" id="valueE" disabled="">
+                </div>
+                <div class="inputDIV">
+                    <p>
+                        TDS Applicable (30% on net winnings)(F)
+                    </p>
+                    <input type="text" name="" id="valueF" disabled="">
+                </div>
+      
+                    <div class="inputDIV">
+                    <p>
+                       Final TDS Payable (H = F-G)
+                    </p>
+                    <input type="text" name="" id="valueH" disabled="">
+                </div>
+            </form>
+           </div>
+      </div>
+
+      <!-- main footer -->
+      <footer class="main-footer">
+         <div class="container">
+            <div class="footer-container">
+               <div class="footer-box">
+                  <div class="footer-logo">
+                     <div class="flogo">
+                        <a href="../index.htm" target="_blank">
+                           <img src="../assets/images/khiladiaddalogo.png" alt="khiladi adda logo">
+                        </a>
+                     </div>
+                     <div class="footer-text">
+                        <div class="socila-icons">
+                           <a href=" https://www.youtube.com/channel/UCTW46GzbnxyHO0s4ekHmAeg/featured" target="_blank"><img class="youtube" src="../assets/icons/youtube.png" alt="youtube icon"></a>
+                           <a href="https://www.instagram.com/khiladiadda/?hl=en" target="_blank"><img src="../assets/icons/insta.png" alt="instagram icon"></a>
+                           <a href=" https://www.facebook.com/khiladiaddaofficial/" target="_blank"><img src="../assets/icons/facebook.png" alt="facebook icon"></a>
+                           <a href="https://in.linkedin.com/company/khiladiadda" target="_blank"><img src="../assets/images/linkedin.png" alt="linkedin icon"></a>
+                           <a href="https://twitter.com/khiladiadda" target="_blank"><img src="../assets/images/twitter.png" alt="twitter icon"></a>
+                        </div>
+
+                        <p>incubated and supported by <strong>ANDC Instart Foundation</strong></p>
+                        <p>
+                           recognised by
+                           <span class="statup"><a href="../s3/download/document/OLD_MIGRATED_STARTUP_APP_CERT_RECOG_DOC/DIPP42145_TECHBELIEVER_TECHNOLOGIES_PRIVATE_LIMITED_Recognization.pdf" target="_blank"><img src="../assets/images/bgmi/startupindia.png" alt="startupindia"></a></span>
+                        </p>
+                     </div>
+                  </div>
+               </div>
+
+               <div class="footer-box desk-link">
+                  <h4>our games</h4>
+                  <div class="footer-links">
+                     <ul>
+                        <li><a href="../ludoadda/index.htm" target="_blank">Ludo adda</a></li>
+                        <li><a href="../fanbattle/index.htm" target="_blank">Fanbattle</a></li>
+                        <li><a href="../bgmi/index.htm" target="_blank">Battlegrounds india</a></li>
+                        <li><a href="../freefiremax/index.htm" target="_blank">Freefire max</a></li>
+                        <li><a href="#wordsearch">Wordsearch</a></li>
+                       <li><a href="#droid-o">Droid-o</a></li>
+                        <li><a href="../rummyadda/index.htm">RummyAdda</a></li>
+                        <li><a href="../courtpiece/index.htm">Court Piece</a></li>
+                     </ul>
+                  </div>
+               </div>
+
+               <div class="footer-box desk-link">
+                  <h4>other links</h4>
+                  <div class="footer-links">
+                     <ul>
+                        <li>
+                           <a href="../blogs/index.htm" target="_blank">blogs</a>
+                        </li>
+                        <li>
+                           <a href="../cancellation-policy/index.htm" target="_blank">cancellation Policy</a>
+                        </li>
+                        <li>
+                           <a href="../responsible-gaming/index.htm" target="_blank">responsible Gaming</a>
+                        </li>
+                        <li><a href="../about/index.htm" target="_blank">about us</a></li>
+                        <li><a href="../faqs/index.htm" target="_blank">faqs</a></li>
+                        <li><a href="../contactus/index.htm" target="_blank">contact us</a></li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="footer-box desk-link">
+                  <h4>legal</h4>
+                  <div class="footer-links">
+                     <ul>
+                        <li><a href="../privacy-policy/index.htm" target="_blank">privacy policy</a></li>
+                        <li><a href="../legality/index.htm" target="_blank">legality</a></li>
+                        <li>
+                           <a href="../terms-and-conditions/index.htm" target="_blank">terms and conditions</a>
+                        </li>
+                        <li>
+                           <a href="../anti-money-laundering-policies/index.htm" target="_blank">anti money laundering policies</a>
+                        </li>
+                        <li><a href="../opinion.pdf" target="_blank">legal memo</a></li>
+                             <li>
+                           <a href="../AIGF2212038.pdf" target="_blank"><span style="text-transform: uppercase">AIGF</span> Membership</a>
+                        </li>
+                        <li>
+                           <a href="index.htm" target="_blank">tds Information</a>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+
+            <div class="footer-mobile-view">
+               <div id="accordion" class="accordion-container">
+                  <h4 class="accordion-title js-accordion-title">our games</h4>
+                  <div class="accordion-content">
+                     <div class="footer-links">
+                        <ul>
+                           <li><a href="../ludoadda/index.htm" target="_blank">Ludo adda</a></li>
+                           <li><a href="../fanbattle/index.htm" target="_blank">Fanbattle</a></li>
+                           <li><a href="../bgmi/index.htm" target="_blank">Battlegrounds india</a></li>
+                           <li><a href="../freefiremax/index.htm" target="_blank">Freefire max</a></li>
+                           <li><a href="#wordsearch" target="_blank">Wordsearch</a></li>
+                              <li><a href="#droid-o">Droid-o</a></li>
+                        <li><a href="../rummyadda/index.htm">RummyAdda</a></li>
+                        <li><a href="../courtpiece/index.htm">Court Piece</a></li>
+                        </ul>
+                     </div>
+                  </div>
+
+                  <h4 class="accordion-title js-accordion-title">other links</h4>
+                  <div class="accordion-content">
+                     <div class="footer-links">
+                        <ul>
+                           <li>
+                              <a href="../blogs/index.htm" target="_blank">blogs</a>
+                           </li>
+                           <li>
+                              <a href="../cancellation-policy/index.htm" target="_blank">cancellation Policy</a>
+                           </li>
+                           <li>
+                              <a href="../responsible-gaming/index.htm" target="_blank">responsible Gaming</a>
+                           </li>
+                           <li><a href="../about/index.htm" target="_blank">about us</a></li>
+                           <li><a href="../faqs/index.htm" target="_blank">faqs</a></li>
+                           <li><a href="../contactus/index.htm" target="_blank">contact us</a></li>
+                        </ul>
+                     </div>
+                  </div>
+
+                  <h4 class="accordion-title js-accordion-title">legal</h4>
+                  <div class="accordion-content">
+                     <div class="footer-links">
+                        <ul>
+                           <li><a href="../privacy-policy/index.htm" target="_blank">privacy policy</a></li>
+                           <li><a href="../legality/index.htm" target="_blank">legality</a></li>
+                           <li>
+                              <a href="../terms-and-conditions/index.htm" target="_blank">terms and conditions</a>
+                           </li>
+                           <li>
+                              <a href="../anti-money-laundering-policies/index.htm" target="_blank">anti money laundering policies</a>
+                           </li>
+                           <li><a href="../opinion.pdf" target="_blank">legal memo</a></li>
+           <li><a href="../AIGF2212038.pdf" target="_blank">AIGF Membership</a></li>
+                           <li><a href="index.htm" target="_blank">tds Information</a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+
+            <div class="bottom-footer">
+               <div class="bfooterText">
+                  <h5>Is Khiladi Adda a safe gaming platform?</h5>
+                  <p>
+                     Khiladi Adda is an absolutely safe & secure platform ensuring all the games
+                     listed are fair. Khiladi Adda’s fraud detection team restricts fraudulent play
+                     or players hence making Khiladi Adda a 100% secure platform.
+                  </p>
+
+                  <h5>Do people really win money on Khiladi Adda?</h5>
+                  <p>
+                     Absolutely! Lots of players have already won big prizes on Khiladi Adda and you
+                     can too. We host different kinds of cash contests, each with its own entry fee
+                     and prize money. Choose a contest that you want to play, defeat the
+                     competition, and celebrate big wins!
+                  </p>
+
+                  <h5>Is it safe to add money to Khiladi Adda?</h5>
+                  <p>
+                     Adding money to your Khiladi Adda account is both simple and safe. We have many
+                     different payment options enabled on Khiladi Adda and work hard to ensure that
+                     your personal details are safe with us.
+                  </p>
+               </div>
+
+               <div class="copyright">
+                  <p class="copyright-text">copyright ©2022 Khiladi Adda. all rights reserved</p>
+                  <p class="webmaint">
+                     Website Maintained By:
+                     <a href="https://www.gortnm.com/" target="_blank">Gortnm Innovations Pvt Ltd</a>
+                  </p>
+
+                  <a><img class="ssl" src="../assets/images/bgmi/ssl.png" alt="SSL"></a>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <!--// main footer end -->
+
+      <!-- js  -->
+
+  <script src="tds.js"></script>
+      <script src="../ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+      <script src="../js/main.js"></script>
+
+      <script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'en'  , includedLanguages: 'hi,en',}, 'google_translate_element');
+        }
+        </script>
+      <script type="text/javascript" src="../translate_a/element.js?cb=googleTranslateElementInit"></script>
+      
+   </body>
+</html>
+
+

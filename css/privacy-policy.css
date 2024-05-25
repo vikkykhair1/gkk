@@ -1,0 +1,84 @@
+@media screen and (max-width: 1000px) {
+   .page-section {
+      margin-top: 10vh;
+   }
+}
+
+@media screen and (max-width: 1210px) {
+   .heading {
+      height: 15rem;
+   }
+}
+@media screen and (max-width: 1000px) {
+   .heading {
+      height: 13rem;
+   }
+}
+@media screen and (max-width: 750px) {
+   .heading {
+      height: 10rem;
+   }
+}
+@media screen and (max-width: 520px) {
+   .heading {
+      height: 6rem;
+   }
+}
+@media screen and (max-width: 370px) {
+   .heading {
+      height: 6rem;
+   }
+}
+@media screen and (max-width: 1000px) {
+   .heading > h1 {
+      font-size: 8rem !important;
+   }
+}
+@media screen and (max-width: 750px) {
+   .heading > h1 {
+      font-size: 5rem !important;
+   }
+}
+@media screen and (max-width: 520px) {
+   .heading > h1 {
+      font-size: 3rem !important;
+   }
+}
+.heading .fade-heading {
+   font-size: 20rem;
+}
+@media screen and (max-width: 1500px) {
+   .heading .fade-heading {
+      font-size: 16rem !important;
+   }
+}
+@media screen and (max-width: 1210px) {
+   .heading .fade-heading {
+      font-size: 13rem !important;
+   }
+}
+@media screen and (max-width: 1000px) {
+   .heading .fade-heading {
+      font-size: 9rem !important;
+   }
+}
+@media screen and (max-width: 750px) {
+   .heading .fade-heading {
+      font-size: 7rem !important;
+   }
+}
+@media screen and (max-width: 520px) {
+   .heading .fade-heading {
+      font-size: 5rem !important;
+   }
+   .page-section {
+      margin-top: 1vh;
+   }
+}
+@media screen and (max-width: 370px) {
+   .heading .fade-heading {
+      font-size: 4rem !important;
+   }
+}
+
+/*# sourceMappingURL=privacy-policy.css.map */
